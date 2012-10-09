@@ -1,0 +1,5 @@
+Tape1: Program
+Tape2: Input
+Tape3: Output
+Tape4: Memory
+Tape5: Stack
